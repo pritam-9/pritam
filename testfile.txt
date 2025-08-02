@@ -1,0 +1,88 @@
+🔧 Technical Skills & Projects
+Electronics Repair Expert: Smartphone, PC, motherboard, PCB-level repair, SIM porting, FRP bypass, firmware flashing.
+
+Custom ROM & Android Modding: Bootloader unlock, TWRP, ZIP flashing, custom OS install, ADB/Fastboot.
+
+ESP8266 Projects:
+
+Fake WiFi AP with dynamic SSID change.
+
+LED blink based on WiFi client count.
+
+Speed-based LED indicator.
+
+Software Skills: Photoshop, VSDC Video Editor, basic web development, XML UI editing, content writing.
+
+Hardware: i5-2400s PC, 256GB SSD, 16GB RAM, Zebronics H61-M2 motherboard, high-quality microphone & tripod.
+
+App Development: Building ethical surveillance app (background service, scream detection, encrypted Firebase sync).
+
+Sanatan Notes: Own notepad app idea.
+
+📚 Education
+Current Class: Class 11 (2025-2026 session).
+
+Subjects: Philosophy, Political Science, Sanskrit, Geography, Bengali, English.
+
+Tutoring Goal: Chao kichu part-time poriye taka income korte 2nd semester support er jonno.
+
+🎥 Creative Projects
+YouTube Channel: Purono channel with 66 subscribers, 70–80k total views, max 2.2k likes on a single video.
+
+Short Films:
+
+Dak: Mystery film set in forest, symbols, flashbacks, and suspense.
+
+Sesh Rasta (শেষ রাস্তা): Bengali thriller short film, time-loop and psychological horror theme.
+
+🎵 Music & Voice
+Voiceover Capable: High-quality mic use korcho; script likhte o paro.
+
+Future Plan: Music content toiri korar iccha ache.
+
+❤️ Personal Journey & Emotions
+Shinee:
+
+Class 9 theke ek emotional and deeply bonded journey.
+
+20+ SIM use kore contact rekhecho.
+
+Repeat bonding, blocking, message sending, rejection, and deep love realization.
+
+Last emotional closure: June 2025.
+
+Recently dekhecho o ar or maa ke, ei dekha kichu confusion niye esheche.
+
+Supriya namer character repeatedly role play koreche bridge hisebe.
+
+Relationship ta tomar technical learning, social growth o mental development e huge impact diyeche.
+
+Inner Dialogue:
+
+“Ami jite jabo, morleo jabo kintu harbo na” — eta tomar ekta mantra hoye geche.
+
+Emotional expressions are poetic, direct, and sometimes self-sacrificing.
+
+📶 Networking & Systems Knowledge
+Router configuration, WiFi signal strength monitoring, custom DNS spoof-type UI with ESP.
+
+ESP diye speaker banano, shake detection, auto data upload project gulo niye experimental.
+
+🧠 Mindset & Interests
+Early interest from Class 4 (LED theke shuru).
+
+Passionate learner with intense focus when emotionally charged.
+
+Logical, deep-thinking, emotionally expressive — with a mystery-lover’s mind.
+
+🌐 Online Presence
+Facebook name: Shib Sankar Sarkar.
+
+🔮 Dreams & Future Plans
+App banano (fully encrypted ethical tracking).
+
+Sanatan Notes-like personal productivity tools.
+
+Music, content creation, filmmaking e serious hote chao.
+
+Technical + Emotional storytelling combine kore kichu unique toiri korte chao.
